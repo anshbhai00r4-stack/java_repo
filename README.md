@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2349-design-a-number-container-system](https://github.com/anshbhai00r4-stack/java_repo/tree/master/2349-design-a-number-container-system) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
