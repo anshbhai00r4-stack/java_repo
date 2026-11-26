@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
