@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0065-valid-number](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0065-valid-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0217-contains-duplicate) |
 | [2349-design-a-number-container-system](https://github.com/anshbhai00r4-stack/java_repo/tree/master/2349-design-a-number-container-system) |
 ## Design
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
