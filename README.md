@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/anshbhai00r4-stack/java_repo/tree/master/1603-design-parking-system) |
 | [2349-design-a-number-container-system](https://github.com/anshbhai00r4-stack/java_repo/tree/master/2349-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0258-add-digits) |
+| [1603-design-parking-system](https://github.com/anshbhai00r4-stack/java_repo/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/anshbhai00r4-stack/java_repo/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
