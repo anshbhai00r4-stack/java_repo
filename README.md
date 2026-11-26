@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0217-contains-duplicate) |
 | [2349-design-a-number-container-system](https://github.com/anshbhai00r4-stack/java_repo/tree/master/2349-design-a-number-container-system) |
 ## Design
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/anshbhai00r4-stack/java_repo/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
